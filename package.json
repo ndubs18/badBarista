@@ -1,0 +1,22 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndubs18/badBarista.git"
+  },
+  "author": "Nick Winkler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndubs18/badBarista/issues"
+  },
+  "homepage": "https://github.com/ndubs18/badBarista#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
